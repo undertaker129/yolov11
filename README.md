@@ -7,3 +7,9 @@
 ### 더 적은 파라미터로 더 높은 정확도: 모델 설계의 발전으로 YOLO11m은 COCO 데이터 세트에서 더 높은 평균 정밀도 (mAP)를 달성하는 동시에 YOLOv8m 보다 22% 적은 수의 매개변수를 사용하여 정확도 저하 없이 계산 효율을 높였습니다.
 ### 다양한 환경에서의 적응성: YOLO11 은 엣지 디바이스, 클라우드 플랫폼, NVIDIA GPU를 지원하는 시스템 등 다양한 환경에 원활하게 배포할 수 있어 유연성을 극대화합니다.
 ### 광범위한 지원 작업: 물체 감지, 인스턴스 분할, 이미지 분류, 포즈 추정, 방향성 물체 감지(OBB) 등 다양한 컴퓨터 비전 과제에 대응할 수 있도록 설계되었습니다( YOLO11 ).
+
+## yolov11 yolov8 성능비교
+![화면 캡처 2025-05-07 151808](https://github.com/user-attachments/assets/f6a4844e-6e9f-4dfa-a1c8-ad0ade96eefe)
+
+#### 출처
+https://docs.ultralytics.com/ko/models/yolo11/#supported-tasks-and-modes
